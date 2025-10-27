@@ -156,5 +156,5 @@ You are free to use, modify, and share it for educational or research purposes.
 
 - Dataset: [Kaggle – Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)  
 - Developed by **Adnan Altimeemy**  
-  Data Scientist and Educater 
+  Data Scientist  
   Educational purpose: introducing students to decision tree algorithms and data preprocessing in Python.
